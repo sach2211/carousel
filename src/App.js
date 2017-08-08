@@ -9,8 +9,9 @@ class App extends Component {
           <h2> Carousel Component </h2>
         </div>
         <Carousel>
-          <img src='http://assets.myntassets.com/v1/a64vl2cbedwj0d1zajey.jpg' width="300"/>
-          <img src='http://assets.myntassets.com/v1/zxahracz8b47r50xagim.jpg' width="300"/>
+          <img src='http://lorempixel.com/300/200'/>
+          <img src='http://lorempixel.com/301/200'/>
+          <img src='http://lorempixel.com/302/200'/>
         </Carousel>
       </div>
     );

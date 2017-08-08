@@ -4,12 +4,9 @@
 }
 
 .carousel-wrapper {
-  width: 800px;
+  width: 1000px;
 }
 
-.frm {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px;
-  background-color: red;
+img {
+  border: 5px solid black;
 }
